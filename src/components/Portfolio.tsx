@@ -19,7 +19,7 @@ const Portfolio = () => {
       gallery: [
         'pp1.jpg',
         'pp2.jpg',
-        'pp3.jpg',
+        'Business Card Mockup les Délices du boucher.jpg',
         'pp25.png'
       ],
       category: 'Branding'
