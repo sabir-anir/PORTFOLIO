@@ -20,7 +20,7 @@ const Hero = () => {
           <div className="w-48 h-48 mx-auto rounded-full overflow-hidden border-4 border-cyan-400/50 shadow-2xl shadow-cyan-400/20 relative group">
             <div className="absolute inset-0 bg-gradient-to-br from-cyan-400/20 to-purple-600/20 rounded-full group-hover:scale-110 transition-transform duration-500"></div>
             <img 
-              src="ml.jpg"
+              src="AN.jpg"
               alt="Anir Sabir - Graphic Designer"
               className="w-full h-full object-cover relative z-10"
             />
