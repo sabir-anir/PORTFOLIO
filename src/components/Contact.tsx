@@ -18,7 +18,7 @@ const Contact = () => {
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Sidi Moumen, Casablanca',
+      value: 'Show Only,Casablanca',
       href: '#'
     },
     {

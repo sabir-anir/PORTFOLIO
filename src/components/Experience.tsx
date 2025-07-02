@@ -4,7 +4,7 @@ import { Briefcase, Calendar, Users, Target } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
-      title: 'Internship in Print Offset',
+      title: 'Internship in Print Production Management  Intern',
       duration: '2 months',
       company: 'Squid Print & Mers Sultan – Casablanca',
       icon: '🖨',
@@ -26,7 +26,7 @@ const Experience = () => {
       ]
     }
   ];
-
+ 
   return (
     <section className="py-20 px-6 relative overflow-hidden">
       <div className="absolute inset-0 bg-gradient-to-b from-gray-800 to-gray-900"></div>

@@ -7,7 +7,7 @@ const Footer = () => {
       icon: Mail,
       label: 'Email',
       value: 'anirsabir8@gmail.com',
-      href: 'anirsabir8@gmail.com'
+      href: '"https://mail.google.com/mail/?view=cm&fs=1&to=anirsabir8@gmail.com"'
     },
     {
       icon: Phone,
@@ -18,7 +18,7 @@ const Footer = () => {
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Sidi Moumen, Casablanca',
+      value: 'Show Only,Casablanca',
       href: '#'
     },
     {
